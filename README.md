@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sterduckpednoi&label=Profile%20views&color=0e75b6&style=flat" alt="sterduckpednoi" /> </p>
-a
 <p align="left"> <a href="https://twitter.com/yutpauy" target="blank"><img src="https://img.shields.io/twitter/follow/yutpauy?logo=twitter&style=for-the-badge" alt="yutpauy" /></a> </p>
 
 - 📫 How to reach me **yuttapatandy@gmail.com**

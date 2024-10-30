@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sterduckpednoi&label=Profile%20views&color=0e75b6&style=flat" alt="sterduckpednoi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ลูกเป็ดขี้เหร่" target="blank"><img src="https://img.shields.io/twitter/follow/ลูกเป็ดขี้เหร่?logo=twitter&style=for-the-badge" alt="ลูกเป็ดขี้เหร่" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yutpauy" target="blank"><img src="https://img.shields.io/twitter/follow/yutpauy?logo=twitter&style=for-the-badge" alt="yutpauy" /></a> </p>
 
 - 📫 How to reach me **yuttapatandy@gmail.com**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ลูกเป็ดขี้เหร่" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ลูกเป็ดขี้เหร่" height="30" width="40" /></a>
+<a href="https://twitter.com/yutpauy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yutpauy" height="30" width="40" /></a>
 <a href="https://fb.com/yuttapat na nakronpanom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuttapat na nakronpanom" height="30" width="40" /></a>
 <a href="https://instagram.com/ipxd_dy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ipxd_dy" height="30" width="40" /></a>
 <a href="https://discord.gg/yuttapat#8882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yuttapat#8882" height="30" width="40" /></a>

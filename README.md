@@ -26,4 +26,4 @@ a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sterduckpednoi&" alt="sterduckpednoi" /></p>
 
-<img align="right" alt="Shinjung" width="200" src="https://media.tenor.com/e88HTLkfr_UAAAAj/smile.gif">
+<img align="right" alt="Shinjung" width="50" src="https://media.tenor.com/e88HTLkfr_UAAAAj/smile.gif">

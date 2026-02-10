@@ -1,28 +1,57 @@
 <h1 align="center">Hi 👋, I'm Yuttapat Na nakronpanom</h1>
-<h3 align="center">Study at UP | Major CS | ICT 66</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sterduckpednoi&label=Profile%20views&color=0e75b6&style=flat" alt="sterduckpednoi" /> </p>
-<p align="left"> <a href="https://twitter.com/yutpauy" target="blank"><img src="https://img.shields.io/twitter/follow/yutpauy?logo=twitter&style=for-the-badge" alt="yutpauy" /></a> </p>
+###
 
-- 📫 How to reach me **yuttapatandy@gmail.com**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+</div>
 
-- ⚡ Fun fact **I am Funny**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yutpauy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yutpauy" height="30" width="40" /></a>
-<a href="https://fb.com/yuttapat na nakronpanom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuttapat na nakronpanom" height="30" width="40" /></a>
-<a href="https://instagram.com/ipxd_dy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ipxd_dy" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sterduckpednoi&show_icons=true&locale=en&layout=compact" alt="sterduckpednoi" /></p>
+<img align="right" height="233" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh1cXh6bTNnb2h2NDM1aWY4cnRwMDdiMmZibThpNDB2MWVkN2t3MyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/ytu2GUYbvhz7zShGwS/giphy.gif"  />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sterduckpednoi&show_icons=true&locale=en" alt="sterduckpednoi" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sterduckpednoi&" alt="sterduckpednoi" /></p>
+<h6 align="left">CS student trying to turn coffee into working code.<br><br>This GitHub is a collection of mini projects made for practice,  <br>learning, and proving that “it worked yesterday”.<br><br>Currently:<br>- Learning by doing<br>- Breaking things responsibly<br>- Fixing bugs one commit at a time<br><br>📍 Thailand  <br>🎓 Computer Science Student  <br>🛠 Learning by building</h6>
 
-<img align="right" alt="Shinjung" width="200" src="https://media.tenor.com/e88HTLkfr_UAAAAj/smile.gif">
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SterduckPedNoi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SterduckPedNoi/SterduckPedNoi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SterduckPedNoi/SterduckPedNoi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SterduckPedNoi/SterduckPedNoi/output/pacman-contribution-graph.svg">
+</picture>
+
+###

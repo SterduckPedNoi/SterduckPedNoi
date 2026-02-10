@@ -40,13 +40,13 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SterduckPedNoi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=SterduckPedNoi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=16&order=3" height="300" alt="streak graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SterduckPedNoi/SterduckPedNoi/output/pacman-contribution-graph-dark.svg">
